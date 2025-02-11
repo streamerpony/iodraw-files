@@ -13,6 +13,9 @@
         <mxCell id="ee0yHELP1XhfSyKulDmf-2" value="上传成功，标记为pending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ee0yHELP1XhfSyKulDmf-3" value="标记为received" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
