@@ -22,7 +22,7 @@
         <mxCell id="ee0yHELP1XhfSyKulDmf-5" value="upload函数传递信号激活get函数，后端传递processed图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ee0yHELP1XhfSyKulDmf-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ee0yHELP1XhfSyKulDmf-6" value="前端展示processed图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
