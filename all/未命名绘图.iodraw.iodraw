@@ -28,6 +28,9 @@
         <mxCell id="ee0yHELP1XhfSyKulDmf-7" value="client主机访问api/unprocessed获取所有未处理的图像url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ee0yHELP1XhfSyKulDmf-8" value="对应url下载所有图像文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
