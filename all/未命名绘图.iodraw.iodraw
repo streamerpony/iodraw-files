@@ -34,6 +34,9 @@
         <mxCell id="ee0yHELP1XhfSyKulDmf-4" value="接收成功，标记为processed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ee0yHELP1XhfSyKulDmf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ee0yHELP1XhfSyKulDmf-5" target="ee0yHELP1XhfSyKulDmf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ee0yHELP1XhfSyKulDmf-5" value="upload函数传递信号激活get函数，后端传递processed图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -75,6 +78,9 @@
             <mxPoint x="390" y="350" as="sourcePoint" />
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ee0yHELP1XhfSyKulDmf-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="270" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
