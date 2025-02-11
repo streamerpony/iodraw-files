@@ -34,14 +34,23 @@
         <mxCell id="ee0yHELP1XhfSyKulDmf-7" value="client主机访问api/unprocessed获取所有未处理的图像url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ee0yHELP1XhfSyKulDmf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ee0yHELP1XhfSyKulDmf-8" target="ee0yHELP1XhfSyKulDmf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ee0yHELP1XhfSyKulDmf-8" value="对应url下载所有图像文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ee0yHELP1XhfSyKulDmf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ee0yHELP1XhfSyKulDmf-9" target="ee0yHELP1XhfSyKulDmf-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ee0yHELP1XhfSyKulDmf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ee0yHELP1XhfSyKulDmf-9" target="ee0yHELP1XhfSyKulDmf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ee0yHELP1XhfSyKulDmf-9" value="将下载的图像post到服务器标记为received" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ee0yHELP1XhfSyKulDmf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ee0yHELP1XhfSyKulDmf-11" target="ee0yHELP1XhfSyKulDmf-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ee0yHELP1XhfSyKulDmf-11" value="主机端运行process.py处理图像，可导入外部模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
