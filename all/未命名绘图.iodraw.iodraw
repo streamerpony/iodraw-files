@@ -96,8 +96,8 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-46" value="用户端可视化预览当前进度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="520.72" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-49" value="&lt;br&gt;推理完成后，打包处理结果，通过 &lt;code data-end=&quot;766&quot; data-start=&quot;747&quot;&gt;/api/receive-pkg/回传服务器&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
-          <mxGeometry x="680.72" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-49" value="&lt;br&gt;&lt;font face=&quot;Helvetica&quot;&gt;推理完成打包处理结果，&amp;nbsp;&lt;code data-end=&quot;766&quot; data-start=&quot;747&quot;&gt;/api/receive-pkg/回传&lt;/code&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+          <mxGeometry x="680.72" y="360" width="119.28" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
