@@ -40,6 +40,9 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-29" value="接受用户上传图像内容，存储到数据库并状态赋值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="200.72000000000003" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-30" value="定时轮询/api/request-data/接口，请求服务器是否有未处理任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+          <mxGeometry x="40.72000000000003" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
