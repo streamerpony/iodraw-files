@@ -34,6 +34,9 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-26" value="远程主机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="0.72" y="320" width="79.28" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-27" target="gGts4Tpvmr0Ithh_oo4b-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-27" value="用户上传图像&lt;br&gt;&lt;div&gt;调用/api/upload/接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="200.72000000000003" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-30" value="定时轮询/api/request-data/接口，请求服务器是否有未处理任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="40.72000000000003" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+          <mxGeometry x="200.72000000000003" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
