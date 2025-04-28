@@ -28,6 +28,9 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-24" value="用户前端界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+          <mxGeometry y="160" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
