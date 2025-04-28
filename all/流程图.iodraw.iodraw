@@ -18,14 +18,14 @@
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-21" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.272;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880.72" y="320" as="sourcePoint" />
+            <mxPoint x="830" y="320" as="sourcePoint" />
             <mxPoint y="320.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-23" target="gGts4Tpvmr0Ithh_oo4b-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-23" value="用户访问首页&lt;div&gt;返回前端界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#DEDEDE;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-23" value="用户访问首页&lt;div&gt;返回前端界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#DEDEDE;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="40.72000000000003" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-24" value="用户前端界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
@@ -43,13 +43,13 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-27" target="gGts4Tpvmr0Ithh_oo4b-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-27" value="用户上传图像&lt;br&gt;&lt;div&gt;调用/api/upload/接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-27" value="用户上传图像&lt;br&gt;&lt;div&gt;调用/api/upload/接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="200.72000000000003" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-29" target="gGts4Tpvmr0Ithh_oo4b-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-29" value="接受用户上传图像内容，存储到数据库并赋值唯一 id、状态" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-29" value="接受用户上传图像内容，存储到数据库并赋值唯一 id、状态" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="200.72000000000003" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-30" target="gGts4Tpvmr0Ithh_oo4b-31" edge="1">
@@ -66,7 +66,7 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-31" target="gGts4Tpvmr0Ithh_oo4b-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-31" value="调用/api/download/接口下载图像包" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-31" value="调用/api/download/接口下载图像包" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="360.72" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-36" target="gGts4Tpvmr0Ithh_oo4b-31" edge="1">
@@ -75,10 +75,10 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-36" target="gGts4Tpvmr0Ithh_oo4b-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-36" value="接收到主机请求打包图像文件" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-36" value="接收到主机请求打包图像文件" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="360.72" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-30" value="定时轮询/api/request-data/接口，请求服务器是否有未处理任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-30" value="定时轮询/api/request-data/接口，请求服务器是否有未处理任务" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="200.72000000000003" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-41" target="gGts4Tpvmr0Ithh_oo4b-42" edge="1">
@@ -87,7 +87,7 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-41" target="gGts4Tpvmr0Ithh_oo4b-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-41" value="图像识别过程中向 &lt;code data-end=&quot;719&quot; data-start=&quot;695&quot;&gt;/api/receive-progress/&lt;/code&gt; 上报当前进度" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-41" value="图像识别过程中向 &lt;code data-end=&quot;719&quot; data-start=&quot;695&quot;&gt;/api/receive-progress/&lt;/code&gt; 上报当前进度" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="520.72" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-42" target="gGts4Tpvmr0Ithh_oo4b-46" edge="1">
@@ -96,34 +96,34 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-42" target="gGts4Tpvmr0Ithh_oo4b-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-42" value="服务器实时更新数据库中图像对应status" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-42" value="服务器实时更新数据库中图像对应status" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="520.72" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-46" target="gGts4Tpvmr0Ithh_oo4b-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-46" value="轮询 &lt;code data-end=&quot;246&quot; data-start=&quot;230&quot;&gt;/get_progress/&lt;/code&gt;用户端可视化预览当前进度" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-46" value="轮询 &lt;code data-end=&quot;246&quot; data-start=&quot;230&quot;&gt;/get_progress/&lt;/code&gt;用户端可视化预览当前进度" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="520.72" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-49" target="gGts4Tpvmr0Ithh_oo4b-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-49" value="推理完成打包处理结果，通过&amp;nbsp;&lt;code style=&quot;&quot; data-end=&quot;766&quot; data-start=&quot;747&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;/api/receive-pkg/回传服务器&lt;/font&gt;&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-49" value="推理完成打包处理结果，通过&amp;nbsp;&lt;code style=&quot;&quot; data-end=&quot;766&quot; data-start=&quot;747&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;/api/receive-pkg/回传服务器&lt;/font&gt;&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="680.72" y="360" width="119.28" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-50" target="gGts4Tpvmr0Ithh_oo4b-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-50" value="服务器接收到处理结果解包后呈递给前端" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-50" value="服务器接收到处理结果解包后呈递给前端" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="680.72" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-54" value="前端从 &lt;code data-end=&quot;295&quot; data-start=&quot;271&quot;&gt;/api/get-result-image/&lt;/code&gt; 拉取处理完成的结果图像" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#dedede;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-54" value="前端从 &lt;code data-end=&quot;295&quot; data-start=&quot;271&quot;&gt;/api/get-result-image/&lt;/code&gt; 拉取处理完成的结果图像" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#dedede;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="680.72" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-57" target="gGts4Tpvmr0Ithh_oo4b-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-57" value="前端呈现用户上传原图像供用户预览" style="rounded=1;whiteSpace=wrap;html=1;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-57" value="前端呈现用户上传原图像供用户预览" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" vertex="1">
           <mxGeometry x="360.72" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
