@@ -4,29 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-10" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="70" width="520" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-5" value="用户界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry width="78" height="38.57142857142857" as="geometry" />
-        </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-6" value="服务器端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry y="102.85714285714285" width="78" height="38.57142857142857" as="geometry" />
-        </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-9" value="主机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry y="257.1428571428571" width="78" height="38.57142857142857" as="geometry" />
-        </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-13" value="用户上传图像调用/api/upload/接口上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry x="160" y="38.57" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry x="280" y="38.56999999999999" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry x="400" y="38.56999999999999" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-11" value="用户访问首页&lt;div&gt;返回首页界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="181.43" width="80" height="40" as="geometry" />
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="40" width="720" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
