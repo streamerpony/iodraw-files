@@ -25,8 +25,8 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="40.72000000000003" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
-          <mxGeometry x="270.72" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-24" value="用户前端界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+          <mxGeometry width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
