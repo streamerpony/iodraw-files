@@ -40,13 +40,16 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-27" target="gGts4Tpvmr0Ithh_oo4b-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-27" target="gGts4Tpvmr0Ithh_oo4b-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-27" value="用户上传图像&lt;br&gt;&lt;div&gt;调用/api/upload/接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="200.72000000000003" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-29" target="gGts4Tpvmr0Ithh_oo4b-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-29" value="接受用户上传图像内容，存储到数据库并状态赋值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-29" value="接受用户上传图像内容，存储到数据库并赋值唯一 id、状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="200.72000000000003" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-30" target="gGts4Tpvmr0Ithh_oo4b-31">
