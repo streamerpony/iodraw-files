@@ -31,8 +31,8 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-25" value="服务器端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-26" value="远程主机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+          <mxGeometry x="0.72" y="320" width="79.28" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
