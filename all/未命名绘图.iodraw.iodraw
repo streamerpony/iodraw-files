@@ -34,7 +34,7 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-26" value="远程主机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="0.72" y="320" width="79.28" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-27" value="用户访问首页&lt;div&gt;返回前端界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-27" value="用户上传图像&lt;br&gt;&lt;div&gt;调用/api/upload/接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="200.72000000000003" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
