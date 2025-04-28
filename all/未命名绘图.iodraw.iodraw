@@ -99,6 +99,9 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-42" value="服务器实时更新数据库中图像对应status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="520.72" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-46" target="gGts4Tpvmr0Ithh_oo4b-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-46" value="轮询 &lt;code data-end=&quot;246&quot; data-start=&quot;230&quot;&gt;/get_progress/&lt;/code&gt;用户端可视化预览当前进度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="520.72" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -111,7 +114,7 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-50" value="服务器接收到处理结果解包后呈递给前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="680.72" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-54" value="&#xa;前端从 &lt;code data-end=&quot;295&quot; data-start=&quot;271&quot;&gt;/api/get-result-image/&lt;/code&gt; 拉取处理完成的结果图像&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-54" value="前端从 &lt;code data-end=&quot;295&quot; data-start=&quot;271&quot;&gt;/api/get-result-image/&lt;/code&gt; 拉取处理完成的结果图像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="680.72" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
