@@ -58,8 +58,11 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-30" target="gGts4Tpvmr0Ithh_oo4b-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="161" y="357.50000000000006" />
-              <mxPoint x="161" y="210.83333333333331" />
+              <mxPoint x="160" y="390" />
+              <mxPoint x="160" y="358" />
+              <mxPoint x="161" y="358" />
+              <mxPoint x="161" y="211" />
+              <mxPoint x="201" y="211" />
             </Array>
           </mxGeometry>
         </mxCell>
