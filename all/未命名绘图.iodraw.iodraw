@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-22" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="39.27999999999997" width="721.44" height="480" as="geometry" />
+          <mxGeometry x="39.27999999999997" y="40" width="721.44" height="480" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="0.7200000000000273" width="720" height="480" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-26" value="远程主机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="0.72" y="320" width="79.28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-27" value="用户访问首页&lt;div&gt;返回前端界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+          <mxGeometry x="200.72000000000003" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
