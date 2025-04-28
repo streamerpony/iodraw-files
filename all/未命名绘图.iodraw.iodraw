@@ -87,6 +87,9 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-42" value="服务器实时更新数据库中图像对应status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="520.72" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-46" value="用户端可视化预览当前进度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+          <mxGeometry x="520.72" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
