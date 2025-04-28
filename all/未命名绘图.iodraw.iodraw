@@ -5,31 +5,34 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-10" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="40" width="400" height="280" as="geometry" />
+          <mxGeometry x="120" y="40" width="520" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry width="400" height="280" as="geometry" />
+          <mxGeometry width="520" height="359.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry width="400" height="80" as="geometry" />
+          <mxGeometry width="520" height="102.85714285714285" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-10" target="gGts4Tpvmr0Ithh_oo4b-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="200" as="sourcePoint" />
-            <mxPoint x="50" y="150" as="targetPoint" />
+            <mxPoint y="257.1428571428571" as="sourcePoint" />
+            <mxPoint x="65" y="192.85714285714283" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="200" />
+              <mxPoint x="520" y="257.1428571428571" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-5" value="用户界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry width="60" height="30" as="geometry" />
+          <mxGeometry width="78" height="38.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-6" value="服务器端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry y="80" width="60" height="30" as="geometry" />
+          <mxGeometry y="102.85714285714285" width="78" height="38.57142857142857" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-9" value="主机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
-          <mxGeometry y="200" width="60" height="30" as="geometry" />
+          <mxGeometry y="257.1428571428571" width="78" height="38.57142857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
