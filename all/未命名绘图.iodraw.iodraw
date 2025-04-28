@@ -34,6 +34,9 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-11" value="用户访问首页&lt;div&gt;返回首页界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-10">
           <mxGeometry x="40" y="38.57" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-13" value="用户访问首页&lt;div&gt;返回首页界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="88.57" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
