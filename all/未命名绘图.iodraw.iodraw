@@ -68,8 +68,13 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-36" value="接收到主机请求打包图像文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="360.72" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-36" target="gGts4Tpvmr0Ithh_oo4b-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-36" target="gGts4Tpvmr0Ithh_oo4b-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="300" />
+              <mxPoint x="260" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
