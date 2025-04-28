@@ -25,7 +25,7 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-23" target="gGts4Tpvmr0Ithh_oo4b-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-23" value="用户访问首页&lt;div&gt;返回前端界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-23" value="用户访问首页&lt;div&gt;返回前端界面&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="40.72000000000003" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-24" value="用户前端界面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
