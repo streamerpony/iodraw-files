@@ -84,17 +84,26 @@
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-41" target="gGts4Tpvmr0Ithh_oo4b-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-41" target="gGts4Tpvmr0Ithh_oo4b-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-41" value="图像识别过程中向 &lt;code data-end=&quot;719&quot; data-start=&quot;695&quot;&gt;/api/receive-progress/&lt;/code&gt; 上报当前进度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="520.72" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-42" target="gGts4Tpvmr0Ithh_oo4b-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-42" target="gGts4Tpvmr0Ithh_oo4b-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-42" value="服务器实时更新数据库中图像对应status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="520.72" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGts4Tpvmr0Ithh_oo4b-46" value="用户端可视化预览当前进度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-46" value="轮询 &lt;code data-end=&quot;246&quot; data-start=&quot;230&quot;&gt;/get_progress/&lt;/code&gt;用户端可视化预览当前进度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="520.72" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gGts4Tpvmr0Ithh_oo4b-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="gGts4Tpvmr0Ithh_oo4b-22" source="gGts4Tpvmr0Ithh_oo4b-49" target="gGts4Tpvmr0Ithh_oo4b-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gGts4Tpvmr0Ithh_oo4b-49" value="推理完成打包处理结果，通过&amp;nbsp;&lt;code style=&quot;&quot; data-end=&quot;766&quot; data-start=&quot;747&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;/api/receive-pkg/回传服务器&lt;/font&gt;&lt;/code&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gGts4Tpvmr0Ithh_oo4b-22">
           <mxGeometry x="680.72" y="360" width="119.28" height="60" as="geometry" />
