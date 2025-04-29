@@ -10,11 +10,17 @@
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-1" value="主机向服务器请求文件打包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ol7zIVfNCBGLtK48tUnA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ol7zIVfNCBGLtK48tUnA-2" target="Ol7zIVfNCBGLtK48tUnA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-2" value="服务器返回数据包id及数据包对应哈希值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ol7zIVfNCBGLtK48tUnA-4" value="本地端" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ol7zIVfNCBGLtK48tUnA-4" value="本地端对下载的数据包哈希校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol7zIVfNCBGLtK48tUnA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ol7zIVfNCBGLtK48tUnA-5" target="Ol7zIVfNCBGLtK48tUnA-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-5" value="本地端接收数据包id，向服务器请求下载对应数据包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
