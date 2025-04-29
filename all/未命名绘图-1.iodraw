@@ -10,7 +10,7 @@
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ol7zIVfNCBGLtK48tUnA-27" target="Ol7zIVfNCBGLtK48tUnA-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ol7zIVfNCBGLtK48tUnA-27" value="处理完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ol7zIVfNCBGLtK48tUnA-27" value="引入模型推理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-28" value="服务器数据库SQLite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
