@@ -25,6 +25,9 @@
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-5" value="本地端接收数据包id，向服务器请求下载对应数据包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ol7zIVfNCBGLtK48tUnA-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
