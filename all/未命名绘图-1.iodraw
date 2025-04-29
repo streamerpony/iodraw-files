@@ -5,22 +5,22 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-25" value="接收到数据包" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ol7zIVfNCBGLtK48tUnA-27" target="Ol7zIVfNCBGLtK48tUnA-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-27" value="引入模型推理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-28" value="服务器数据库SQLite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="40" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="160" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-29" value="处理完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-33" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA;mso-bidi-font-weight:bold&quot; lang=&quot;EN-US&quot;&gt;&#39;processing&#39;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="139.99809523809517" as="geometry" />
+          <mxGeometry x="200" y="259.9980952380952" as="geometry" />
         </mxCell>
         <mxCell id="Ol7zIVfNCBGLtK48tUnA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.126;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ol7zIVfNCBGLtK48tUnA-25" target="Ol7zIVfNCBGLtK48tUnA-28">
           <mxGeometry relative="1" as="geometry" />
@@ -30,8 +30,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ol7zIVfNCBGLtK48tUnA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.874;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ol7zIVfNCBGLtK48tUnA-29" target="Ol7zIVfNCBGLtK48tUnA-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ol7zIVfNCBGLtK48tUnA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ol7zIVfNCBGLtK48tUnA-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ol7zIVfNCBGLtK48tUnA-37" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA;mso-bidi-font-weight:bold&quot; lang=&quot;EN-US&quot;&gt;&#39;remote_processed&#39;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ol7zIVfNCBGLtK48tUnA-36">
+          <mxGeometry x="-0.2128" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
